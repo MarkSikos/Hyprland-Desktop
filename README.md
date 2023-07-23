@@ -54,7 +54,7 @@ See all available options for personalizations:
 
 [Hyprland Configuration Page](https://wiki.hyprland.org/Configuring/Configuring-Hyprland) 
 
-<h1>Gallery</h1> 
+<h2>Gallery</h2> 
 
 ![Desktop](Pictures/desktop.png) 
 ![Unixporn](Pictures/unixporn.png) 
