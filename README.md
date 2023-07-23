@@ -1,6 +1,6 @@
 # Hyperland-Desktop 
 A highly customized hyperland setup on arch linux for newbies and pros, feel free to use it :)   
-<h1>Requirements</h1> 
+<h2>Requirements</h2> 
 What you need:  
 
 1. Hyprland DE and all dependencies 
