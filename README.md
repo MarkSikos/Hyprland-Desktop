@@ -7,7 +7,7 @@ What you need:
 2. Kitty shell and Starship for customization 
 3. Rofi, grimblast, pulseaudio etc.. for basic funcitons 
 4. Sway's waybar (but others i.e. Dmenu works fine as well)
-5. A Nerd font for the emojis to work that you like (I use MesloLGL Nerd Font Mono Regular)
+5. A Nerd font for the emojis to work (I use MesloLGL Nerd Font Mono Regular)
 
 <h2>Setup</h2> 
 KDE is recommended, but should woek as well on GNOME, Sway etc.. too. Otherwise  try:  
