@@ -54,4 +54,5 @@ See all available options for personalizations:
 [I'm an inline-style link](https://www.google.com)   
 
 <h1>Gallery</h1> 
-![Desktop]() ![Unixporn]() 
+![Desktop](Pictures/desktop.png) 
+![Unixporn](Pictures/unixporn.png) 
