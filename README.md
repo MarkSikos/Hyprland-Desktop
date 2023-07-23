@@ -50,9 +50,10 @@ bind = $mainMod,SPACE,  exec, rofi -show run
 
 <h2>Official Website</h2> 
 See all available options for personalizations: 
+
 [Hyprland Configuration Page](https://wiki.hyprland.org/Configuring/Configuring-Hyprland) 
-[I'm an inline-style link](https://www.google.com)   
 
 <h1>Gallery</h1> 
+
 ![Desktop](Pictures/desktop.png) 
 ![Unixporn](Pictures/unixporn.png) 
